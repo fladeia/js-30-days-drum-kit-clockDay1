@@ -1,32 +1,40 @@
-https://courses.wesbos.com/account/access/610d6d64b36fe451adb8914b/view/194130650
-Javascript30 - 30 days vanilla js coding challenge
-build 30 things in 30 days with 30 tutorials
+<h1>Drum Kit</h1>
 
-Day 1 - Javascript Drum Kit
+<h1>
+  <img src="https://">
+</h1>
 
-original github repo:
-https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit
+<h3 align="center">
+  <a href="https://beautiful-conkies-37b4f8.netlify.app" target="_blank">Acessar a demonstração</a>
+</h3>
 
-interesting points:
-HTML - tags: kdb, audio
-HTML - attributes: data-key
+## 🎫 Sobre
 
-#Para obter o atributo data através do objeto dataset, acesse a propriedade utilizando a parte do nome do atributo após o prefixo data- (note que o hífen é convertido para camelCase).
+Projeto desenvolvido com HTML, CSS e Javascript. Drum Kit.
 
-#
+---
 
-#var article = document.getElementById('electriccars');
+## 🚀 Tecnologias utilizadas
 
-#
+- HTML
+- CSS
+- Javascript
 
-#article.dataset.columns // "3"
-#article.dataset.indexNumber // "12314"
-#article.dataset.parent // "cars"
+---
 
-CSS: `transition: all 0.07s ease;`, `transform: scale(1.1);`
-Javascript: `window.addEventListener("keydown", () => {})`, audio methods, classList add and remove
+## 🔗 Links úteis
 
-references:
-https://keycode.info/
+- [Github](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [w3schools](https://www.w3schools.com/)
+- [MDN](https://developer.mozilla.org/)
+- [keycode](https://www.toptal.com/developers/keycode)
 
-increase project: how does your name sound? Animal sounds?
+---
+## Fonte
+
+- [Javascript30 - 30 days vanilla js coding challenge](https://javascript30.com/)
+
+---
+
+Desenvolvido por [LadeiaDev](https://ladeia.dev.br/)
