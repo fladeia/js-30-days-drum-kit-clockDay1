@@ -1,7 +1,7 @@
 <h1>Drum Kit</h1>
 
 <h1>
-  <img src="https://">
+  <img src="https://ik.imagekit.io/ladeiaDev/2022-06-16-18-03-beautiful-conkies-37b4f8.netlify.app_u5IPa6MNa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655413404873">
 </h1>
 
 <h3 align="center">
